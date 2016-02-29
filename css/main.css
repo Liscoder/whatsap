@@ -138,7 +138,7 @@ width:32.3%;
 	margin-top: 2%;
 }
 .cmt-f{
-	height:70px;
+	height:84px;
 	position:relative;
 	padding-top:10px;
 }
@@ -164,6 +164,6 @@ width:32.3%;
 .d-docu{
 	overflow:hidden;
 	overflow-y:scroll;
-	max-height:540px;
-	height: 550px;
+	max-height:468px;
+	height: 468px;
 }
